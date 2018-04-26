@@ -1,0 +1,44 @@
+.row {
+    height: 400px;
+
+}
+/**Todos las filas**/
+#bannerPrincipal, #descripcionPrograma, #iconos, #fernandoCelis, #contador, #listonListoUnirte, #descripcionContinuum, #facebookComentarios, #logosPatrocinadores {
+    
+}
+
+#bannerPrincipal {
+    background-color: cornflowerblue;
+}
+
+#descripcionPrograma {
+    background-color:firebrick;
+}
+
+#iconos {
+    background-color: cornflowerblue;
+}
+
+#fernandoCelis {
+    background-color: firebrick;
+}
+
+#contador {
+    background-color: cornflowerblue;
+}
+
+#listonListoUnirte {
+    background-color: firebrick;
+}
+
+#descripcionContinuum {
+    background-color: cornflowerblue;
+}
+
+#facebookComentarios {
+    background-color: firebrick;
+}
+
+#logosPatrocinadores {
+    background-color: cornflowerblue;
+}
