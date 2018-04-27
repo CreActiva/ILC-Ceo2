@@ -17,7 +17,7 @@ h2,h3{
 }
 
 .row {
-    height: 500px;
+    height: 800px;
 
 }
 /**Todos las filas**/
@@ -26,7 +26,11 @@ h2,h3{
 }
 
 #bannerPrincipal {
-    background-color: cornflowerblue;
+    background-color: gray;
+}
+
+#logoRoi > img{
+    width: 100%;
 }
 
 #descripcionPrograma {
