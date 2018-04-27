@@ -22,6 +22,26 @@ header{
     background-position: center;
 }
 
+.primary{
+    background-color: #448fa3;
+}
+
+.secondary{
+    background-color: #d7263d;
+}
+
+.light{
+    background-color: #0090d8;
+}
+
+.dark{
+    background-color: #02182b;
+}
+
+.grey{
+    background-color: #ced8db;
+}
+
 .row {
     height: 500px;
 
@@ -32,37 +52,37 @@ header{
 }
 
 #bannerPrincipal {
-    background-color:;
+
 }
 
 #descripcionPrograma {
-    background-color:firebrick;
+
 }
 
 #iconos {
-    background-color: cornflowerblue;
+
 }
 
 #fernandoCelis {
-    background-color: firebrick;
+
 }
 
 #contador {
-    background-color: cornflowerblue;
+
 }
 
 #listonListoUnirte {
-    background-color: firebrick;
+
 }
 
 #descripcionContinuum {
-    background-color: cornflowerblue;
+
 }
 
 #facebookComentarios {
-    background-color: firebrick;
+
 }
 
 #logosPatrocinadores {
-    background-color: cornflowerblue;
+
 }
