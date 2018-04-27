@@ -1,10 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+h2,h3{
+    font-family: 'Roboto Slab', serif;
+}
+
 .row {
     height: 500px;
 
 }
 /**Todos las filas**/
 #bannerPrincipal, #descripcionPrograma, #iconos, #fernandoCelis, #contador, #listonListoUnirte, #descripcionContinuum, #facebookComentarios, #logosPatrocinadores {
-    
+
 }
 
 #bannerPrincipal {
