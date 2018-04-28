@@ -1,0 +1,181 @@
+commit d86d47c84e36cb2ec3ff4c655afe7a8cb5b3abf2
+Merge: 4bcf67a af0694c
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 16:07:19 2018 -0400
+
+    sigo guardando errores
+
+commit af0694c6fc65b19038814ef419f70d49a44f63e2
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 15:51:46 2018 -0400
+
+    Iconos mas grandes
+
+commit 4bcf67add6055fab3a7096e9d03376a405fa463c
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 15:44:38 2018 -0400
+
+    cambios nuevos
+
+commit edbee021bc78ca5eea511af2d49912ca9a663105
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 15:41:11 2018 -0400
+
+    agregados videos testimoniales
+
+commit 84d2beada69163a747b4c286f45786cb0a4e2f68
+Merge: f814ffa f7db97e
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 15:36:28 2018 -0400
+
+    Merge remote-tracking branch 'remotes/origin/estructurainicial' into estructurainicial
+
+commit f814ffab9e8a51e88f8b8cd43eaab5c59c77c333
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 15:34:59 2018 -0400
+
+    Contador agregado
+
+commit f7db97e5734419f52e4bb98ca529b78e2d177556
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 14:00:44 2018 -0400
+
+    se agrego la seccion programa coaching continuum
+
+commit 6f1433d49ff7df2ca58f23b63f972e50619b694e
+Merge: 3cbc03d cf091b3
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 13:38:18 2018 -0400
+
+    Merge remote-tracking branch 'remotes/origin/estructurainicial' into estructurainicial
+
+commit 3cbc03d0bb0f2e40ae56add5d695ff99f12e3503
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 13:10:39 2018 -0400
+
+    Agregado colores en logos y texto
+
+commit cf091b3a1324d5fbe9e26e064393a51c8c624e90
+Merge: e568b98 0f4b6d6
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 12:55:29 2018 -0400
+
+    Merge branch 'estructurainicial' of https://github.com/creActiva/ceoii into estructurainicial
+
+commit 0f4b6d6860d5598e1354bec679c4788d8165f858
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 12:49:46 2018 -0400
+
+    Cambios html Libreria y Estilos Fernando Imagen
+
+commit e568b9851e1ddb92468e0f2277ce333ef55a458b
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 12:49:23 2018 -0400
+
+    se descargo librerias de miguel
+
+commit cf5c67219d9c25b35b627db2f48b00139214cb4e
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 12:40:01 2018 -0400
+
+    logos final de pagina
+
+commit 10110e67f2cdd76e16b5e34173fd5c481d9089ec
+Merge: 9defb93 27b4950
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 12:38:37 2018 -0400
+
+    Estilos Fernando agregado
+
+commit 9defb930a9d99a6686eecfa0f2632dde1360c56e
+Merge: ce16c6e a1b031e
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 12:01:50 2018 -0400
+
+    Se agregaron librerias
+
+commit 27b49506d1ca8af897b6d690e94903ca9a83137c
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 11:51:52 2018 -0400
+
+    alineacion vertical programagratuito, incorporacion de logos banner principal
+
+commit ce16c6ea597444b425fd780f6e369beb1e5acb0a
+Merge: caa8569 569df04
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Sat Apr 28 10:47:31 2018 -0400
+
+    Agregando archivos
+
+commit a1b031e75a35587e19df944464c14f689aa923bf
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Sat Apr 28 10:27:52 2018 -0400
+
+    centrado logo banner, padding banner, centrados iconos, caja obten ya, padding descripcion programa
+
+commit d5f732e7b5c983aa7d09857bd2730c46efc60991
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Fri Apr 27 08:50:19 2018 -0400
+
+    Se agregaro imagen fernando y mockup libro, colores en titulos h1 y h2 fondo oscuro, se quito el height de referencia por uno auto
+
+commit a04717361bfa4b66dff1c414b29c598a86e16a7f
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Fri Apr 27 05:58:04 2018 -0400
+
+    fondos ancho completos y colores de fondo finales. Estructura inicial final
+
+commit caa8569726b713c61d167feee830994dab6cf726
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Thu Apr 26 23:11:07 2018 -0400
+
+    Color de banner principal y imagen título del mismo fue agregada
+
+commit 569df049918c83f07102fab5a8a8dedcfcb2fe22
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Thu Apr 26 22:21:58 2018 -0400
+
+    se agrego el header como seccion por encima del contenedor de banner principal para obtener el fondo ancho completo con su imagen de fondo
+
+commit 349161e8740c8db567165480cfd84c8cef788140
+Merge: f7eb328 d478a87
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Thu Apr 26 21:51:10 2018 -0400
+
+    Merge branch 'estructurainicial' of https://github.com/creActiva/ceoii into estructurainicial
+
+commit f7eb328afda0de0c546527d08d90c10a85f0db64
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Thu Apr 26 21:50:31 2018 -0400
+
+    Iconos, Imágenes y Botón
+
+commit d478a873239e58924f33c8f234fd5923447dd989
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Thu Apr 26 21:41:24 2018 -0400
+
+    se agregaron las fuentes
+
+commit ae04fa3d2ab0013540cbfe29f7986836e43c1808
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Thu Apr 26 20:58:38 2018 -0400
+
+    se arreglo la estructura de la cabecera
+
+commit 0734f3e661e429f4fc45051e20ff8e1fa82a995f
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Thu Apr 26 20:40:41 2018 -0400
+
+    Agregados textos y video
+
+commit 6c62eba19b06ee68fd2d0b095c3ac25b62336ff8
+Author: MiguelAngel0201 <mpena.creactiva@gmail.com>
+Date:   Thu Apr 26 19:47:37 2018 -0400
+
+    Estructura no.1
+
+commit 7b4940afd6db742eb6618e9622bd46d654d2a284
+Author: samuel <coachsamuelg@gmail.com>
+Date:   Thu Apr 26 16:48:05 2018 -0400
+
+    Comienzo del proyecto en bootstrap. Todo vacio
