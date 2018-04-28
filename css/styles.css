@@ -21,6 +21,9 @@ p{
 .secondary{
     background-color: #d7263d;
 }
+.Rojo{
+    color: #d7263d !important;
+}
 .light{
     background-color: #0090d8;
 }
