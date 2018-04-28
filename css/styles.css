@@ -108,7 +108,20 @@ header{
 #listonListoUnirte{
   padding: 50px 0 50px 0;
 }
-
 #listonListoUnirte h1{
   font-size: 37px;
+}
+
+/*LogosPatrocinadores*/
+#logosPatrocinadores{
+  height: 200px;
+}
+#logosPatrocinadores .container{
+  border-top: 2px solid #448fa3;
+}
+
+#logosPatrocinadores .logos{
+  width: 50%;
+  height: 125px;
+  margin: 25px 0 25px 0;
 }
