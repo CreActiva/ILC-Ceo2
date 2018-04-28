@@ -72,10 +72,18 @@ header{
 
 /*iconos*/
 #iconos{
-  padding: 50px 0 50px 0;
+  padding: 40px 0 50px 0;
   text-align: center;
 }
 
+#iconos h3{
+  margin-top: 25px;
+}
+
+.logos{
+  width:65px;
+  height:65px;
+}
 /*Fernando Celis**/
 #fernandoCelis{
   padding: 30px 0 0px 0;
@@ -88,7 +96,7 @@ header{
   color: rgba(68, 143, 163, 1);
 }
 #obtenYa img#folleto{
-  height: 375px;
+  height: 335px;
   width: 300px;
 }
 /*CONTADOR*/
@@ -101,4 +109,6 @@ header{
   padding: 50px 0 50px 0;
 }
 
-#listonListoUnirte
+#listonListoUnirte h1{
+  font-size: 37px;
+}
