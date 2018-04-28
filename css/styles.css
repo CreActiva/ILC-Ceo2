@@ -16,6 +16,12 @@ h2,h3{
     font-family: 'Roboto Slab', serif;
 }
 
+header{
+    background-image: url("../images/bannerPrincipal.jpg");
+    background-size:cover;
+    background-position: center;
+}
+
 .row {
     height: 800px;
 
@@ -26,11 +32,7 @@ h2,h3{
 }
 
 #bannerPrincipal {
-    background-color: gray;
-}
-
-#logoRoi > img{
-    width: 100%;
+    background-color:;
 }
 
 #descripcionPrograma {
