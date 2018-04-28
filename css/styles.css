@@ -112,6 +112,9 @@ header{
 #contador{
   padding: 50px 0 50px 0;
 }
+h3#dias, h3#horas, h3#minutos, h3#segundos {
+    text-align: center !important;
+}
 
 /*Liston Pregunta*/
 #listonListoUnirte{
