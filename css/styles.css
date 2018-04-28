@@ -73,14 +73,23 @@ header{
 
 /*iconos*/
 #iconos{
-  padding: 50px 0 50px 0;
+  padding: 40px 0 50px 0;
   text-align: center;
 }
 
+#iconos h3{
+  margin-top: 25px;
+}
+
+.logos{
+  width:65px;
+  height:65px;
+}
 /*Fernando Celis**/
 #fernandoCelis{
   padding: 30px 0 0px 0;
 }
+
 #obtenYa{
   background-color: rgba(68, 143, 163, 0.1);
   padding: 25px;
@@ -89,8 +98,12 @@ header{
   color: rgba(68, 143, 163, 1);
 }
 #obtenYa img#folleto{
-  height: 375px;
-  width: 300px;
+  height: 225px;
+  width: 200px;
+}
+#fernandoCelis img#fernandoFoto{
+ width:100%;
+
 }
 /*CONTADOR*/
 #contador{
@@ -102,4 +115,6 @@ header{
   padding: 50px 0 50px 0;
 }
 
-#listonListoUnirte
+#listonListoUnirte h1{
+  font-size: 37px;
+}
