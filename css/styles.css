@@ -21,6 +21,9 @@ p{
 .secondary{
     background-color: #d7263d;
 }
+.Rojo{
+    color: #d7263d !important;
+}
 .light{
     background-color: #0090d8;
 }
@@ -108,6 +111,9 @@ header{
 /*CONTADOR*/
 #contador{
   padding: 50px 0 50px 0;
+}
+h3#dias, h3#horas, h3#minutos, h3#segundos {
+    text-align: center !important;
 }
 
 #contador h1{
