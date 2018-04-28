@@ -2032,6 +2032,11 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   margin-right: 0.75rem;
 }
 
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+
 .form-check-inline .form-check-input {
   position: static;
   margin-top: 0;
