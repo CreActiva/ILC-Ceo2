@@ -41,6 +41,7 @@ header{
     background-position: center;
 }
 
+
 /*Todos los titulos que esten en fondo dark**/
 .dark h1,.dark h2,.dark h3,.dark h4,.dark h5,.dark h6{
     color: #d7263d;
@@ -88,6 +89,7 @@ header{
 #fernandoCelis{
   padding: 30px 0 0px 0;
 }
+
 #obtenYa{
   background-color: rgba(68, 143, 163, 0.1);
   padding: 25px;
@@ -96,8 +98,12 @@ header{
   color: rgba(68, 143, 163, 1);
 }
 #obtenYa img#folleto{
-  height: 335px;
-  width: 300px;
+  height: 225px;
+  width: 200px;
+}
+#fernandoCelis img#fernandoFoto{
+ width:100%;
+
 }
 /*CONTADOR*/
 #contador{
