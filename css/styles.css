@@ -2,67 +2,104 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-
-p{
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-}
-
 h1{
     font-family: 'Oswald', sans-serif;
+    font-size: 50px !important: /*No agarra*/
 }
-
 h2,h3{
     font-family: 'Roboto Slab', serif;
 }
 
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:#ced8db;
+}
+.primary{
+    background-color: #448fa3;
+}
+.secondary{
+    background-color: #d7263d;
+}
+.light{
+    background-color: #0090d8;
+}
+.dark{
+    background-color: #02182b;
+}
+.grey{
+    background-color: #ced8db;
+}
+#obtenYa img{
+    height: 450px;
+    width: 400px;
+}
+/*Header*/
 header{
     background-image: url("../images/bannerPrincipal.jpg");
     background-size:cover;
     background-position: center;
 }
 
-.row {
-    height: 800px;
 
+/*Todos los titulos que esten en fondo dark**/
+.dark h1,.dark h2,.dark h3,.dark h4,.dark h5,.dark h6{
+    color: #d7263d;
 }
-/**Todos las filas**/
-#bannerPrincipal, #descripcionPrograma, #iconos, #fernandoCelis, #contador, #listonListoUnirte, #descripcionContinuum, #facebookComentarios, #logosPatrocinadores {
-
-}
-
-#bannerPrincipal {
-    background-color:;
+.primary h1, .primary h2, .primary h3, .primary h4,.primary h5,.primary h5{
+  color:#ced8db;
 }
 
-#descripcionPrograma {
-    background-color:firebrick;
+.secondary h1, .secondary h2, .secondary h3, .secondary h4, .secondary h5,.secondary h6{
+  color:#ced8db;
 }
 
-#iconos {
-    background-color: cornflowerblue;
+/*Banner principal*/
+#bannerPrincipal img#logoRoi {
+  width: 450px;
+  height: 150px;
+  margin: 25px 0 25px 0;
+}
+#bannerPrincipal h1{
+  color:#0090d8;
+}
+#bannerPrincipal #suscribetePrograma{
+  margin: 25px 0 25px 0;
+}
+/*Banner principal*/
+#descripcionPrograma{
+  padding: 50px 0 50px 0;
 }
 
-#fernandoCelis {
-    background-color: firebrick;
+/*iconos*/
+#iconos{
+  padding: 50px 0 50px 0;
+  text-align: center;
 }
 
-#contador {
-    background-color: cornflowerblue;
+/*Fernando Celis**/
+#fernandoCelis{
+  padding: 30px 0 0px 0;
+}
+#obtenYa{
+  background-color: rgba(68, 143, 163, 0.1);
+  padding: 25px;
+}
+#obtenYa h1,#obtenYa h2,#obtenYa h3, #obtenYa h4,#obtenYa h5,#obtenYa h6{
+  color: rgba(68, 143, 163, 1);
+}
+#obtenYa img#folleto{
+  height: 375px;
+  width: 300px;
+}
+/*CONTADOR*/
+#contador{
+  padding: 50px 0 50px 0;
 }
 
-#listonListoUnirte {
-    background-color: firebrick;
+/*Liston Pregunta*/
+#listonListoUnirte{
+  padding: 50px 0 50px 0;
 }
 
-#descripcionContinuum {
-    background-color: cornflowerblue;
-}
-
-#facebookComentarios {
-    background-color: firebrick;
-}
-
-#logosPatrocinadores {
-    background-color: cornflowerblue;
-}
+#listonListoUnirte
