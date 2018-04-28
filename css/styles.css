@@ -133,6 +133,10 @@ header{
   background-color: #02182b;
   color:#D7263D;
 }
+
+#testimonios .row{
+  height: 250px;
+}
 /*LogosPatrocinadores*/
 #logosPatrocinadores{
   height: 200px;
